@@ -4,4 +4,4 @@ oop
 mysql
 ci
 laravel
-bootstraps
+tailwind
