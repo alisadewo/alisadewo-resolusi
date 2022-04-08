@@ -1,0 +1,7 @@
+Rencana Kontent
+- javascript 
+  * ES6
+  * Frameworks Javascript
+- PHP Frameworks
+- Interview
+- Vlog
