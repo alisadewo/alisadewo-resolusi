@@ -2,11 +2,11 @@ Rencana Kontent
 - javascript 
   * ES6
   * Frameworks Javascript
-  * vue
-  * React
+    ^ vue
+    ^ React
 - Struktur data dasar (fundamental data structer)
 - PHP Frameworks
-  *Laravel
+  * Laravel
 - Interview
 - Vlog
 - python
