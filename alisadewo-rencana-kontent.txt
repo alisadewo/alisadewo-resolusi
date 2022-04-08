@@ -2,7 +2,9 @@ Rencana Kontent
 - javascript 
   * ES6
   * Frameworks Javascript
-- Struktur data dasar (fundamental data structer)
+    ^ Angular
+    ^ React
 - PHP Frameworks
+  * Laravel
 - Interview
 - Vlog
